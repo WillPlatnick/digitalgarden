@@ -3,5 +3,6 @@
 ---
 
 
+Notes: [Obsidian](https://obsidian.md)
 Email - [Spark](https://sparkmailapp.com/)
 Calendar - [Fantastical](https://flexibits.com/fantastical)
