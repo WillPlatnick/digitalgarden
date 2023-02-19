@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/cutting-your-docker-build-time-in-half-docker-layering-and-caching-explained/"}
+{"dg-publish":true,"permalink":"/Blog Posts/Cutting Your Docker Build Time in Half - Docker Layering and Caching Explained/"}
 ---
 
 
