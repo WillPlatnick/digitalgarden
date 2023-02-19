@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/docker-dating-finding-your-perfect-container-to-take-to-production/"}
+{"dg-publish":true,"permalink":"/Blog Posts/Docker Dating - Finding Your Perfect Container To Take To Production/"}
 ---
 
 
