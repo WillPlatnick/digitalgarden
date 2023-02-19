@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/grief-devotional-now-available/"}
+{"dg-publish":true,"permalink":"/Blog Posts/Grief Devotional Now Available/"}
 ---
 
 
